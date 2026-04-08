@@ -1,4 +1,4 @@
-# Claude Code Python Porting Workspace
+# Claude Code Python Porting Workspace.
 
 > The primary `src/` tree in this repository is now dedicated to **Python porting work**. The March 31, 2026 Claude Code source exposure is part of the project's background, but the tracked repository is now centered on Python source rather than the exposed TypeScript snapshot.
 
